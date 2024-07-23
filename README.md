@@ -8,7 +8,7 @@ Tonc is a GameBoy Advance / GameBoy Advance SP programming tutorial originally w
 ^^ The above is written in C. Zig is great for maintaining things written in C. 
 
 
-## Zig2GBA Wiki 
+## [Zig2GBA Wiki](https://github.com/ChromiteExabyte/Zig2GBA/wiki)
 
 Click here to learn some Zig & GBA
 
