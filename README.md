@@ -3,42 +3,50 @@
 This repo maintains a legacy C library and website supporting the Nintendo _Game Boy Advance_ & _GameBoy Advance SP_. 
 
 _Tonc_ is a GameBoy Advance / GameBoy Advance SP programming tutorial originally written by Jasper Vijn.
-  - The guide teaches C programming, and we can adapt it to teach Zig programming ! 
 
 ## Stuff that can be maintained with Zig here
 
 ### 1.  Tonc text
 - _"The text section covers the principles of GBA programming in detail... Every chapter has one of more demonstrations of the covered theory, and a brief discussion of the demo itself."_
 
-+ Having the website in this wiki is good archival / stewardship
++ Having the website in this wiki is good archival / stewardship 
 + The demonstations and text are clear straightforward examples of C (or Zig) code
-+ There are many places where the text would benefit from hyperlinking, between articles and to reference materials,...github wiki + markdown make that easier. 
+ If Zig can maintain and build upon C code, then we can build upon C tutorials and reference materials !
 
-+ If Zig can maintain and build upon C code, then we can build upon C tutorials and reference materials !
-+ 
+![image](https://github.com/user-attachments/assets/3256f9ad-8b8d-47f0-8a23-aa9a79c99183)
+
+^^ This is an example of the _Tonc_ text
+
+
+
 ### 2. Tonc code
 - _"The source code to all the demos mentioned in the text can be found in the code directory. Like the text, the code is divided into 3 main parts: basic, extended and advanced."_
 
 + We can maintain this with Zig incrementally
-+ There's a lot to learn
 + ...this could be a good place to start for anyone who needs an excuse to work on Zig.
-+   The documentation is thorough and the layout of this project is clear.
-+   Even though there is another Zig GBA repo, I wanted to do this myself to learn. Other folks might want that as well?
-  
-   _The basic projects are (hopefully) pretty newbie friendly. They're completely self-contained so you can toy with them and not worry about screwing up other parts. The extended projects take their GBA-related code from **tonclib**..._"
++ The codebase varies from Basic to Advanced, and so it can adapt as Basic to Advanced Zig Tutorials
+.
+.
+The example code can be adapted to Zig tutorials as well as the Zig language / compiler
 
-#### "tonclib, a library with all [the author's] #defines and important functions." 
-_"The advanced demos also use tonclib liberally and will use some assembly files, even if it is just for data."_ 
+![image](https://github.com/user-attachments/assets/eced7658-5edc-4fb2-9e3b-18fb56d3dab8)
 
-_"There is also a lab directory with a few interesting projects, but which might not be quite ready. Still interesting to look at, though."_
 
-Lots to maintain, which is not a bad thing :)
+
+
 
 ### 3. Tonc binaries 
 
 _"Unlike most GBA tutorials, tonc uses makefiles._"
 
-The Zig compiler is really good and stufvf
+The Zig compiler is really good and stuff
+I'm coming from C# / Python, so this section is WIP
+
+![image](https://github.com/user-attachments/assets/afa5f460-f7d2-44ae-b0a4-6f538278f41b)
+
+
+
+
 
 
 
@@ -47,10 +55,8 @@ All contributions welcome !
 
 
 ## 
-![image](https://github.com/user-attachments/assets/eced7658-5edc-4fb2-9e3b-18fb56d3dab8)
 
-^^^^^^ This is from the _Tonc Guide_!
-Go check out that website if you haven't 
+Check out the wiki for this project or say hello in the discussion thread ! 
 
 
 ## Attribution 
