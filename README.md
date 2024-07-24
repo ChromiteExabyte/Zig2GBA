@@ -9,7 +9,8 @@ _Tonc_ is a GameBoy Advance / GameBoy Advance SP programming tutorial originally
 ### 1.  Tonc text
 - _"The text section covers the principles of GBA programming in detail... Every chapter has one of more demonstrations of the covered theory, and a brief discussion of the demo itself."_
 
-+ Having the website in this wiki is good archival / stewardship 
++ Tonc text is all of the info / tutorial things that are not code or binary
++ It's good archival / stewardship practice to save original versions before adapting to Zig
 + The demonstations and text are clear straightforward examples of C (or Zig) code
  If Zig can maintain and build upon C code, then we can build upon C tutorials and reference materials !
 
