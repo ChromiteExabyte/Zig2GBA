@@ -50,14 +50,7 @@ All contributions welcome !
 ![image](https://github.com/user-attachments/assets/eced7658-5edc-4fb2-9e3b-18fb56d3dab8)
 
 ^^^^^^ This is from the _Tonc Guide_!
-- This website is cool 
-
-_The guide to the GBA programming has basic, intermediate, and advanced levels of depth._
-_The guide is very clear in explaining systems programming, memory management, and compiling from 
-_...
-
-
-
+Go check out that website if you haven't 
 
 
 ## Attribution 
@@ -79,5 +72,13 @@ _._
  
 _(Mar 24, 2013)_
 
+The _Tonc_ guide an excellent resource and I am thankful that this work was created (and that the website is still running!)
 
+### Zig Language 
+
+https://ziglang.org/
+
+Zig is pretty cool and I'm thankful for all the effort that goes into the language and compiler development 
+
+as a student, it's exciting to be able to learn Zig before C / C++ 
 
