@@ -3,12 +3,9 @@
 This repo maintains a legacy C library and website supporting the Nintendo _Game Boy Advance_ & _GameBoy Advance SP_. 
 
 _Tonc_ is a GameBoy Advance / GameBoy Advance SP programming tutorial originally written by Jasper Vijn.
-  - The tutorial is clear, informative, and really cool.
-  - It's an excellent resource; check it out here and deserver to be maintained
+  - The guide teaches C programming, and we can adapt it to teach Zig programming ! 
 
-## [This repo's wiki is hoping to maintain the following ](https://github.com/ChromiteExabyte/Zig2GBA/wiki)
-
-The 
+## Stuff that can be maintained with Zig here
 
 ### 1.  Tonc text
 - _"The text section covers the principles of GBA programming in detail... Every chapter has one of more demonstrations of the covered theory, and a brief discussion of the demo itself."_
